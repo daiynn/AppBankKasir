@@ -29,8 +29,7 @@ Studi Kasus: {Kasir Bank}
  mendefinisikan metode abstract untuk menghitung bunga yang akan diimplementasikan oleh kelas turunan (Tabungan, Giro).
 
  # Demo Proyek
- 
-    
+ GDrive : https://drive.google.com/file/d/1--hbI2lpEobErZrryW-Zl70H8ughP1KY/view?usp=sharing
 
 
   
